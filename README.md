@@ -10,6 +10,6 @@ Here are some simple example projects to demonstrate a few different methods of 
 ### Examples
 
 * Adder
-** A simple module that performs addition. 
-** Demonstrates clocked logic
-** Testbench is written in verilog
+  * A simple module that performs addition. 
+  * Demonstrates clocked logic
+  * Testbench is written in verilog
